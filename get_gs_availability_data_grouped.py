@@ -18,7 +18,7 @@ def get_json():
     payload = {}
 
     headers = {
-      'Authorization': 'Basic ZTE4NzAwOTpEYXZpZDQyNDEyMDAyJCNAIQ==',
+      'Authorization': 'Basic <YOUR BASE 64 CREDS HERE>',
       'Cookie': 'JSESSIONID=17B96EEB9418E453F1617335C72317D0'
     }
 
